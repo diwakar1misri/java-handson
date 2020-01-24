@@ -2,11 +2,7 @@ package day1to2;
 
 import java.util.Scanner;
 
-/**
- * @author sumit kumar
- * @code 02-11
- *
- */
+
 public class DayOfWeek2 {
 
 	public static void main(String[] args) {
